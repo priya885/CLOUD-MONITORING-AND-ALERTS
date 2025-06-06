@@ -54,4 +54,7 @@ This task gave me a good experience with cloud monitoring tools. I learned how t
 
 # OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/d5d3c666-d3f0-4410-8eff-1150a60005e7)
+
+
 
