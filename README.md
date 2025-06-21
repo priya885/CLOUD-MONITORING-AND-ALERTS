@@ -40,6 +40,7 @@ This way, if anything goes wrong, I’ll get an email alert immediately and can 
 
 
 *STEP 5*: Review Dashboard
+
 At the end, I opened the Monitoring Dashboard again and checked the charts. They showed updated data in real-time. It gave me a clear view of the system performance. The graphs were simple, and I could understand how the system was behaving just by looking at them.
 
 *Final Deliverables*
